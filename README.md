@@ -1,6 +1,6 @@
 ### This is fun :D
 
-![Frog hopping](./Animated%20Pixel%20Frog%20Hop%20Sequence.gif)
+<img src="./Animated%20Pixel%20Frog%20Hop%20Sequence.gif" width="180" alt="Tiny hopping frog">
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lrandolph23&show_icons=true&theme=tokyonight&hide_border=true)
 
