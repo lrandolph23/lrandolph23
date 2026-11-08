@@ -2,7 +2,13 @@
 
 <img src="./Animated%20Pixel%20Frog%20Hop%20Sequence.gif" width="180" alt="Tiny hopping frog">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lrandolph23&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=%3E+initializing+curiosity...;%3E+compiling+questionable+ideas...;%3E+building+something+interesting...;%3E+hello%2C+world!" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=lrandolph23&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- psst... you found the frog. 🐸 -->
 <!-- psst... you found the frog. 🐸 -->
