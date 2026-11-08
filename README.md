@@ -10,6 +10,12 @@
   <img src="https://github-stats-extended.vercel.app/api?username=lrandolph23&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<h3 align="center"> // MY TOOLKIT //</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,cpp,nodejs,git,github,vscode,linux&theme=dark" />
+</p>
+
 <!-- psst... you found the frog. 🐸 -->
 <!-- psst... you found the frog. 🐸 -->
 <!--
