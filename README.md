@@ -1,5 +1,11 @@
 ### This is fun :D
 
+![Frog hopping](./Animated%20Pixel%20Frog%20Hop%20Sequence.gif)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lrandolph23&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- psst... you found the frog. 🐸 -->
+<!-- psst... you found the frog. 🐸 -->
 <!--
 **lrandolph23/lrandolph23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
