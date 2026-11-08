@@ -28,10 +28,6 @@
   <img src="https://komarev.com/ghpvc/?username=lrandolph23&color=9BCF9B&style=for-the-badge&label=VISITORS" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lrandolph23&color=9BCF9B&style=for-the-badge&label=VISITORS" />
-</p>
-
 ---
 
 <p align="center">
