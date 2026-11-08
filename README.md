@@ -1,31 +1,35 @@
+<h1 align="center">Welcome to my little corner of the internet</h1>
+
 <p align="center">
-  <img src="./Animated%20Pixel%20Frog%20Hop%20Sequence.gif" width="180" alt="Tiny hopping frog">
+  <img src="./Animated%20Pixel%20Frog%20Hop%20Sequence.gif" width="180" alt="Tiny hopping pixel frog">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=%3E+initializing+curiosity...;%3E+compiling+questionable+ideas...;%3E+building+something+interesting...;%3E+hello%2C+world!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2800&pause=900&color=9BCF9B&center=true&vCenter=true&width=500&lines=%3E+watering+my+ideas...;%3E+growing+my+skills...;%3E+debugging+the+universe...;%3E+currently+growing+something+interesting...;%3E+hello%2C+world!" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,cpp,nodejs,git,github,vscode,linux&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=lrandolph23&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!--<h3 align="center"> // MY TOOLKIT //</h3>-->
+<p align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,cpp,nodejs,git,github,vscode,linux&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=lrandolph23&color=9BCF9B&style=for-the-badge&label=VISITORS" />
 </p>
 
-<!--<h3 align="center"> // CODING STREAK //</h3>-->
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lrandolph23&theme=tokyonight&hide_border=true" />
+  <i>currently growing something interesting...</i>
 </p>
 
-<!--<h3 align="center">// PROFILE VISITORS //</h3>-->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lrandolph23&color=9BCF9B&style=for-the-badge&label=♡+VISITORS+♡" />
+  <code>404: ordinary not found</code>
 </p>
 
 <!-- psst... you found the frog. 🐸 -->
