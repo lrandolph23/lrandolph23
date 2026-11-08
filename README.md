@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=lrandolph23&theme=tokyonight&hide_border=true&ring=9BCF9B&fire=9BCF9B&currStreakLabel=9BCF9B" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=lrandolph23&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -23,6 +27,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lrandolph23&color=9BCF9B&style=for-the-badge&label=VISITORS" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lrandolph23&color=9BCF9B&style=for-the-badge&label=VISITORS" />
+</p>
+
+---
 
 <p align="center">
   <i>currently growing something interesting...</i>
